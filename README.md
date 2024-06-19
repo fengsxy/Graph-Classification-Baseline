@@ -41,7 +41,7 @@ pip install dgl-cu111 -f https://data.dgl.ai/wheels/repo.html
 pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
 pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric -f https://data.pyg.org/whl/torch-1.9.0+cu111.html
 pip install matplotlib
-pip install tenserboardX
+pip install tensorboardX
 ```
 
 ## Usage
